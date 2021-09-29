@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stewe\\OneDrive\\Documentos\\p1\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
-      "projectName": "DIO.Series",
-      "projectPath": "C:\\Users\\stewe\\OneDrive\\Documentos\\p1\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\Users\\stewe\\OneDrive\\Documentos\\p1\\dio-dotnet-poo-lab-2-master\\DIO.Music.csproj",
+      "projectName": "DIO.Music",
+      "projectPath": "C:\\Users\\stewe\\OneDrive\\Documentos\\p1\\dio-dotnet-poo-lab-2-master\\DIO.Music.csproj",
       "packagesPath": "C:\\Users\\stewe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\stewe\\OneDrive\\Documentos\\p1\\dio-dotnet-poo-lab-2-master\\obj\\",
       "projectStyle": "PackageReference",
