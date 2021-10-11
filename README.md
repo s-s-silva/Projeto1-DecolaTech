@@ -6,4 +6,4 @@
 
 ## Tecnologias 
 
-### .NET, C# e VS
+### .NET, C# e Visual Studio Code.
