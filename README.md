@@ -1,4 +1,4 @@
-# PLAYLIST DE MÚSICAS
+# PLAYLIST DE MÚSICAS :headphones:
 
 ## Desafio
 
